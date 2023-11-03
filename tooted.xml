@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inimene synd="1916">
+  <nimi elu="Tallinn">Grigorjeva 2</nimi>
+  <lastname>Fillipova</lastname>
+  <pool>naine</pool>
+  <onDeath>No</onDeath>
+  <kuipaljulapsed>1</kuipaljulapsed>
+  <lapsed>
+    <inimene synd="1959">
+      <nimi elu="Tallinn">Natalja</nimi>
+      <lastname>Filippova</lastname>
+      <pool>naine</pool>
+      <onDeath>Yes</onDeath>
+      <kuipaljulapsed>1</kuipaljulapsed>
+      <lapsed>
+        <inimene synd="1983">
+          <nimi elu="Tallinn">Aljona</nimi>
+          <lastname>Filippova</lastname>
+          <pool>naine</pool>
+          <onDeath>Yes</onDeath>
+          <kuipaljulapsed>2</kuipaljulapsed>
+          <lapsed>
+            <inimene synd="2004">
+              <nimi elu="Tallinn">Danil</nimi>
+              <lastname>Akulin</lastname>
+              <pool>man</pool>
+              <onDeath>Yes</onDeath>
+              <kuipaljulapsed>0</kuipaljulapsed>
+            </inimene>
+            <inimene synd="2008">
+              <nimi elu="Tallinn">Olga</nimi>
+              <lastname>Fillipova</lastname>
+              <pool>naine</pool>
+              <onDeath>Yes</onDeath>
+              <kuipaljulapsed>0</kuipaljulapsed>
+            </inimene>
+          </lapsed>
+        </inimene>
+      </lapsed>
+    </inimene>
+  </lapsed>
+</inimene>
